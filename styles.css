@@ -1,0 +1,60 @@
+.jumbotron {
+    background-color: mediumaquamarine ;
+    background-color: dodgerblue; 
+}
+
+body {
+    background-color: deepskyblue;
+    background-color: white;
+    text-align: center;
+  
+ }	
+
+ h1 {
+     color: darkblue;
+ }
+
+ h2 {
+
+     color: darkblue;
+     color: white;
+ }
+
+ h3 {
+     color: white;
+ }
+
+ h4 {
+     color: white;
+ }
+
+ h5 {
+     color: white;
+ }
+
+ h6 {
+     color: blue;
+ }
+
+ p {
+    color: white;
+  
+  }
+  
+  hr  { 
+    color: navy;
+  }
+
+  navbar-brand {
+      color: blue;
+  }
+  
+  .card-body {
+    color: navy; 
+    
+  }
+
+ footer {
+     color: navy;
+ }
+
